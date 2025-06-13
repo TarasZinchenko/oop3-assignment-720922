@@ -1,0 +1,13 @@
+nl\inholland\student\client\OmdbClient.class
+nl\inholland\student\dto\omdb\OmdbMovieDto.class
+nl\inholland\student\dto\tmdb\TmdbImageListDto.class
+nl\inholland\student\client\TmdbClient.class
+nl\inholland\student\controller\MovieController.class
+nl\inholland\student\dto\tmdb\TmdbSearchListDto.class
+nl\inholland\student\MovieWatchlistApplication.class
+nl\inholland\student\service\MovieService.class
+nl\inholland\student\dto\tmdb\TmdbMovieDto.class
+nl\inholland\student\model\Movie.class
+nl\inholland\student\config\AppConfig.class
+nl\inholland\student\repository\MovieRepository.class
+nl\inholland\student\dto\tmdb\TmdbImageDto.class
