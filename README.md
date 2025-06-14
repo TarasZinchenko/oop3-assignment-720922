@@ -64,4 +64,4 @@ Base URL: `http://localhost:8080/api/watchlist`
 
 
 
-*install lobok anotations support if red inderlines bother you 
+*install lobok anotations support if the red underlines bother you as well <'_'>
