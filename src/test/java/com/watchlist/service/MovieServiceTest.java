@@ -60,8 +60,7 @@ class MovieServiceTest {
 
     @BeforeEach
     void setUp() {
-        // Create MovieService manually with mocks
-        movieService = new MovieService(omdbClient, tmdbClient, movieRepository);
+        movieService = new MovieService(omdbClient, tmdbClient, movieRepository, restTemplate);
 
         // Setup OMDb response
         omdbMovieDto = new OmdbMovieDto();
